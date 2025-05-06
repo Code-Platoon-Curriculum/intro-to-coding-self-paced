@@ -1,6 +1,5 @@
 """Budget Adjustment Calculator
 ---------------------------
-
 Description:
 Create a program that simulates adjusting a monthly after purchasing a new car.
 The user starts with an initial budget, and the program performs a series of operations that reflect

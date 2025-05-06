@@ -2,12 +2,12 @@
 ---------------------------
 Description:
     Create a program that demonstrates variable reassignment through basic arithmetic operations.
-    The program should ask the user for a starting number, perform a series of arithmetic
+    The program should create a variable for a starting number, perform a series of arithmetic
     operations on that number (reassigning the result back to the same variable each time),
     and display the value after each operation.
 
 Example Input:
-    Enter a starting number: 10
+    starting number: 10
 
 Example Output:
     Starting value: 10.0
@@ -17,7 +17,7 @@ Example Output:
     After dividing by 4: 6.0
 
 Tasks:
-    1. Create a variable to store the user's starting number (convert input to float)
+    1. Create a variable to store the user's starting number
     2. Display the starting value
     3. Add 5 to the variable and reassign the result back to the same variable
     4. Display the new value
