@@ -25,7 +25,3 @@ Task:
     7. Display the result.
                             
 Your code below here"""
-
-text = "hello"
-text.upper()
-print(text)

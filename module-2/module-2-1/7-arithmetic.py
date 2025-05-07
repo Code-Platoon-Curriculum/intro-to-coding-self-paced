@@ -6,7 +6,7 @@ The user starts with an initial budget, and the program performs a series of ope
 how much less money they will have per month.
 
 Example Input:
-    Enter your starting budget: 1000
+    Starting budget: 1000
 
 Example Output:
     Starting budget: 2000.0
@@ -16,10 +16,7 @@ Example Output:
     After spending 150 on Insurance: 1420.0
 
 Tasks:
-    1. Create a variable to store the user's starting budget (convert input to float)
-        - Example:
-            budget = input()
-            budget = float(budget)
+    1. Create a variable to store the user's starting budget.
     2. Display the starting value
     3. Subtract 550 from the car loan
     4. Display the new value

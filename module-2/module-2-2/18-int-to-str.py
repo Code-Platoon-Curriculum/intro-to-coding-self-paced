@@ -1,5 +1,5 @@
 """Integer to String Conversion
----------------
+-------------------------------
 Description:  
     This problem demonstrates how to convert an integer to a string so it can be used in concatenation.
 
